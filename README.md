@@ -14,11 +14,11 @@ npm install
 step2: .env 設定連線 DB 參數
 
 ```
-DB_HOST=localhost
-DB_USER=root
+DB_HOST=
+DB_USER=
 DB_PWD=
-DB_USEDB=th
-DB_PORT=3306
+DB_USEDB=
+DB_PORT=
 ```
 
 <hr>
