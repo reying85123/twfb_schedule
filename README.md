@@ -8,13 +8,13 @@ npm install
 ```
 <hr>
 step2: .env設定資料庫儲存參數
-```plaintext
+```bash
 DB_HOST=
 DB_USER=
 DB_PWD=
 DB_USEDB=
 DB_PORT=
-```plaintext
+```
 <hr>
 step3: 執行程式
 ```bash
